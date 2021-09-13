@@ -1,7 +1,7 @@
 # Classification Exploration
-# Author: Lindy Bustabad, with code from Dr. Christopher Healey
-# September 4, 2021
-Website for code: https://www.csc2.ncsu.edu/faculty/healey/msa/python/
+Author: Lindy Bustabad, with code from Dr. Christopher Healey <br>
+September 4, 2021 <br>
+Website for code: https://www.csc2.ncsu.edu/faculty/healey/msa/python/ <br>
 
 Exploration of _sklearn_ supervised classification techniques: <br> 
    1) Perceptron (neural net)<br> 
